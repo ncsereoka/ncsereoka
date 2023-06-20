@@ -1,5 +1,5 @@
 ### Hi!
 
-I like tech (mostly AWS and Java)
+I like tech
 
 Now what
